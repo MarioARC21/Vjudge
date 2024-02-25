@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaLoops2 {
+public class JavaLoops2{
 
     public static void main(String[] args) {
         
