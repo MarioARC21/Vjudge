@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class JSIntro
- {
+public class JSIntro{
 
     
     public static void main(String[] args) {
