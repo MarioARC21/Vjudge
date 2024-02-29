@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class JavaStdinandStdout2 {
+public class JavaStdinandStdout2{
 
     public static void main(String[] args) {
         
